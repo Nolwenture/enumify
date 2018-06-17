@@ -1,5 +1,5 @@
 {
-  "name": "enumify",
+  "name": "@nolwenture/enumify",
   "version": "1.0.3",
   "main": "./lib/enumify.js",
   "//": "babel-register is needed for mocha",
@@ -17,10 +17,10 @@
     "mocha": "mocha --ui qunit",
     "prepublish": "npm run build"
   },
-  "author": "Axel Rauschmayer",
+  "author": "Antti Vikman",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rauschma/enumify"
+    "url": "https://github.com/nolwenture/enumify"
   }
 }
