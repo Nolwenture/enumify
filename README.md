@@ -1,3 +1,7 @@
+# Why this fork exists?
+
+This simply removes the outdated es2015 preset from bable requirements
+
 # Enumify
 
 A JavaScript library for enums. To be used by transpiled ES6 (e.g. via Babel).
