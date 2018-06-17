@@ -13,13 +13,13 @@ The approach taken by Enumify is heavily inspired by Java enums.
 Install:
 
 ```text
-npm install enumify
+npm install @nolwenture/enumify
 ```
 
 Use:
 
 ```js
-import {Enum} from 'enumify';
+import {Enum} from '@nolwenture/enumify';
 
 class Color extends Enum {}
 Color.initEnum(['RED', 'GREEN', 'BLUE']);
